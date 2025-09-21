@@ -1,6 +1,6 @@
 {
   "_c0": "UUID of default/main resource pack.",
-  "main_uuid": "a4317950-35fd-4187-b0e2-4d206d113ae3",
+  "main_uuid": "d158b57d-fabd-48aa-a35e-7a72d3f1addb",
   "_c1": "Marks resource pack as required, only effects clients and mods using api to check it",
   "markResourcePackAsRequiredByDefault": false,
   "_c2": "Force-enables offset of CustomModelData",
