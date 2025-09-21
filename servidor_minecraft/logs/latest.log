@@ -752,3 +752,4 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [17:08:18] [Server thread/INFO]: [voicechat] Received secret request of celsofuster (18)
 [17:08:18] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
 [17:16:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/850, l='ServerLevel[Mundo nuevo]', x=290.62, y=83.00, z=15.57]
+[17:24:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/1813, l='ServerLevel[Mundo nuevo]', x=220.14, y=68.00, z=228.29]
