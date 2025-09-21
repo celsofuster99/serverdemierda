@@ -760,3 +760,34 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [17:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5890ms or 117 ticks behind
 [17:31:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Golden Hook'/2935, l='ServerLevel[Mundo nuevo]', x=-812.50, y=-1.95, z=1649.44]
 [17:31:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/2977, l='ServerLevel[Mundo nuevo]', x=-714.51, y=9.00, z=1634.11]
+[17:36:49] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3560, l='ServerLevel[Mundo nuevo]', x=-722.96, y=68.00, z=1700.07]
+[17:37:19] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3677, l='ServerLevel[Mundo nuevo]', x=-809.88, y=64.00, z=1726.11]
+[17:37:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3693, l='ServerLevel[Mundo nuevo]', x=-811.39, y=63.00, z=1741.84]
+[17:37:29] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3695, l='ServerLevel[Mundo nuevo]', x=-808.30, y=64.00, z=1743.05]
+[17:37:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3776, l='ServerLevel[Mundo nuevo]', x=-864.40, y=64.00, z=1752.13]
+[17:37:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3796, l='ServerLevel[Mundo nuevo]', x=-877.69, y=64.00, z=1748.05]
+[17:37:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3803, l='ServerLevel[Mundo nuevo]', x=-880.04, y=64.00, z=1750.48]
+[17:38:00] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3818, l='ServerLevel[Mundo nuevo]', x=-880.13, y=64.00, z=1737.18]
+[17:38:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3822, l='ServerLevel[Mundo nuevo]', x=-883.25, y=64.00, z=1741.57]
+[17:38:09] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3833, l='ServerLevel[Mundo nuevo]', x=-880.77, y=64.00, z=1749.90]
+[17:38:11] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3839, l='ServerLevel[Mundo nuevo]', x=-879.83, y=64.00, z=1754.17]
+[17:38:21] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3869, l='ServerLevel[Mundo nuevo]', x=-867.38, y=65.00, z=1770.28]
+[17:38:39] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3926, l='ServerLevel[Mundo nuevo]', x=-927.82, y=63.00, z=1777.46]
+[17:38:43] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/3959, l='ServerLevel[Mundo nuevo]', x=-928.13, y=62.67, z=1772.30]
+[17:38:48] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/4006, l='ServerLevel[Mundo nuevo]', x=-929.26, y=63.00, z=1780.92]
+[17:38:53] [Server thread/WARN]: UUID of added entity already exists: class_1542['Raw Porkchop'/4054, l='ServerLevel[Mundo nuevo]', x=-920.45, y=63.00, z=1778.91]
+[17:42:41] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4410, l='ServerLevel[Mundo nuevo]', x=-950.46, y=18.00, z=1795.69]
+[17:42:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4416, l='ServerLevel[Mundo nuevo]', x=-950.64, y=18.00, z=1797.46]
+[17:43:04] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/4444, l='ServerLevel[Mundo nuevo]', x=-904.50, y=-44.00, z=1717.57]
+[17:44:52] [Server thread/INFO]: celsofuster has made the advancement [Amateur Archaeologist]
+[17:45:26] [Server thread/INFO]: Disconnecting TheSEEUS (/127.232.221.48:55409): You are not white-listed on this server!
+[17:45:26] [Server thread/INFO]: TheSEEUS (/127.232.221.48:55409) lost connection: You are not white-listed on this server!
+[17:45:26] [Server thread/WARN]: handleDisconnection() called twice
+[17:45:34] [Server thread/INFO]: Disconnecting TheSEEUS (/127.232.221.48:33719): You are not white-listed on this server!
+[17:45:34] [Server thread/INFO]: TheSEEUS (/127.232.221.48:33719) lost connection: You are not white-listed on this server!
+[17:45:34] [Server thread/WARN]: handleDisconnection() called twice
+[17:45:42] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/5076, l='ServerLevel[Mundo nuevo]', x=-1078.07, y=65.50, z=1981.32]
+[17:45:56] [Server thread/WARN]: UUID of added entity already exists: class_1542['Rotten Flesh'/5101, l='ServerLevel[Mundo nuevo]', x=-1076.08, y=62.00, z=1978.12]
+[17:46:32] [Server thread/INFO]: Disconnecting TheSEEUS (/127.232.221.48:57943): You are not white-listed on this server!
+[17:46:32] [Server thread/INFO]: TheSEEUS (/127.232.221.48:57943) lost connection: You are not white-listed on this server!
+[17:46:32] [Server thread/WARN]: handleDisconnection() called twice

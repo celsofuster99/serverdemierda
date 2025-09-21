@@ -1779,6 +1779,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-21 17:40:14 +0000",
       "cooked_mutton": "2025-09-14 19:14:46 +0000",
       "cooked_cod": "2025-09-21 17:16:46 +0000"
     },
@@ -3547,7 +3548,9 @@
       "erupting_inferno": "2025-09-21 17:24:07 +0000",
       "withered_abyss": "2025-09-21 17:25:50 +0000",
       "wetland": "2025-09-21 17:30:23 +0000",
-      "crystalline_chasm": "2025-09-14 20:19:29 +0000"
+      "crystalline_chasm": "2025-09-14 20:19:29 +0000",
+      "bog": "2025-09-21 17:37:20 +0000",
+      "marsh": "2025-09-21 17:38:33 +0000"
     },
     "done": false
   },
@@ -3719,6 +3722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-09-21 17:36:53 +0000"
+    },
+    "done": true
+  },
   "alloy_forgery:recipes/alloy_forgery/gold_block": {
     "criteria": {
       "has_the_recipe": "2025-09-21 17:10:36 +0000"
@@ -3755,15 +3764,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-09-21 17:36:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-09-21 17:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-09-21 17:10:43 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 17:36:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-09-21 17:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-21 17:36:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 17:36:53 +0000"
     },
     "done": true
   },
