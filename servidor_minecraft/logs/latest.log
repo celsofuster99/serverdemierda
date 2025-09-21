@@ -753,3 +753,10 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [17:08:18] [Server thread/INFO]: [voicechat] Sent secret to celsofuster
 [17:16:03] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/850, l='ServerLevel[Mundo nuevo]', x=290.62, y=83.00, z=15.57]
 [17:24:24] [Server thread/WARN]: UUID of added entity already exists: class_1542['Small essence'/1813, l='ServerLevel[Mundo nuevo]', x=220.14, y=68.00, z=228.29]
+[17:29:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Witherbone'/2456, l='ServerLevel[Mundo nuevo]', x=-94.45, y=84.00, z=213.10]
+[17:29:27] [Server thread/WARN]: UUID of added entity already exists: class_1542['Bone'/2457, l='ServerLevel[Mundo nuevo]', x=-94.45, y=84.00, z=213.10]
+[17:30:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8049ms or 160 ticks behind
+[17:30:49] [pool-8-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-789, y=71, z=1589}
+[17:30:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5890ms or 117 ticks behind
+[17:31:34] [Server thread/WARN]: UUID of added entity already exists: class_1542['Golden Hook'/2935, l='ServerLevel[Mundo nuevo]', x=-812.50, y=-1.95, z=1649.44]
+[17:31:54] [Server thread/WARN]: UUID of added entity already exists: class_1542['Glow Ink Sac'/2977, l='ServerLevel[Mundo nuevo]', x=-714.51, y=9.00, z=1634.11]
